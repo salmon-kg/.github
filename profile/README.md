@@ -1,8 +1,13 @@
-## Hi there 👋, Welcome!
+# Hi there 👋, Welcome!
 
-🙋‍♀️ ## Introduction: 
+## Introduction: 🙋‍♀️
 
-SALMON is a framework towards Knowledge Graph (KG) construction from unstructured text. Under SALMON's umberella, we perform 'Syntactic Simplification' to address the complex nature of natural language text as pre-processing agent. The second next componet is textual triple extraction by leveraging LLMs which followed by the triple linking to Wikidata with a hybrid approach GPT-SPARQL
+
+SALMON is a framework towards Knowledge Graph (KG) construction from unstructured text. Under SALMON's umberella, we perform 'Syntactic Simplification' to address the complex nature of natural language text as pre-processing agent. The second componet is textual triple extraction by leveraging LLMs which followed by the triple linking to Wikidata with a hybrid approach LLM-SPARQL. The SALMON approach is illustrated in the following Figure.
+
+<h2 align="center">
+  <img align="center" src="Salmon-KG.png" alt="...">
+</h2>
 
 <!--
 
